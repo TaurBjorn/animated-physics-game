@@ -26,6 +26,6 @@ body {
     pointer-events: none;
 }
 
-#obstacles, #bull {
+#obstacles, #bull, #egg {
     display: none;
 }
