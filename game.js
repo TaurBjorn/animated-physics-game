@@ -473,8 +473,8 @@ window.addEventListener('load', function(){
                 let message1;
                 let message2;
                 if (this.lostHatchlings <= 5) {
-                    message1 = "Well done, Bart!";
-                    message2 = "You bullied the bullies!";
+                    message1 = "Well done!";
+                    message2 = "You fooled those MODOK-wannabees!";
                 } else {
                     message1 = "Crap, you lose!";
                     message2 = "You lost " + this.lostHatchlings + " hatchlings, you can do better, or code them better!";
