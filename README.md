@@ -2,6 +2,8 @@
 
 This small project is my first introduction to  game development.
 
+Press D when game starts, collision detection circles will disappear.
+
 Game synopsis:
 
 When you start the game you can move the player by clicking in the designated area which is created with HTML Canvas. 
